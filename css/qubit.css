@@ -1,0 +1,233 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-family: 'Roboto';
+}
+
+.section-1 {
+  width: 1440;
+  height: 1064;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #F5F5F5;
+}
+
+.campaign-img {
+  width: 996px;
+  height: 560px;
+  display: block;
+  margin-bottom: 76px;
+  margin: 0px 222px 76px;
+}
+
+.title-1 {
+  width: 492px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 40px;
+  margin-top: 94px;
+  margin-bottom: 28px;
+}
+
+.sub-title {
+  width: 783px;
+  height: 30px;
+  font-size: 15px;
+  margin-bottom: 90px;
+}
+
+.section-1 button {
+  padding: 11px 45px 14px;
+  margin-bottom: 101px;
+  font-size: 15px;
+  height: 40px;
+  border-radius: 30px;
+  border-style: solid;
+  border: none;
+  cursor: pointer;
+}
+
+.products-button {
+  width: 189px;
+  background-color: #6F2CFF;
+  color: #FFFFFF;
+  margin-right: 22px;
+}
+
+.demo-button {
+  width: 187px;
+  color: #6F2CFF;
+  background-color:#FFFFFF;
+  box-shadow: 0px 0px 0px #6F2CFF;
+}
+
+.section-2 {
+  width:1440;
+  height:751;
+  background-color: #FFFFFF;
+}
+
+.brand-title {
+  margin: 0 auto;
+  margin-top: 88px;
+  font-size: 40px;
+  font-weight: 700;
+  width: 507px;
+  height: 45px;
+  margin-bottom: 75px;
+}
+
+.brand-box-div {
+
+  margin-left: 199px;
+  margin-right: 201;
+
+}
+
+.brand-box {
+  display: inline-block;
+  vertical-align: top;
+  height: 438px;
+  width: 320px;
+  text-align: center;
+  background: #F5F5F5;
+  box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+  border-radius: 0px 0px 7px 7px;
+}
+
+.brand-picture {
+  width: 320px;
+  height: 205px;
+}
+
+.brand-logo {
+  margin: 25px 0px;
+}
+
+.brand-description {
+  font-weight: 700;
+  font-size: 18px;
+  color: #6F2CFF;
+  width: 185px;
+  height: 88px;
+  margin: 0px 67px 60px 68px;
+}
+
+#img-2 {
+  font-size: 18px;
+  width: 219px;
+  height: 66px;
+  margin: 0px 50px 82px 51px;
+}
+
+#img-3 {
+  font-size: 18px;
+  width: 211px;
+  height: 66px;
+}
+
+.middle-box {
+  margin: 0px 40px 105px;
+}
+
+.section-3 {
+  width: 1440;
+  height: 950px;
+  background-color: #F5F5F5;
+}
+
+.service-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-3 {
+  width: 574px;
+  height: 45px;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 64.75px;
+}
+
+.subtitle-3 {
+  font-size: 18px;
+  width: 567px;
+  height: 30px;
+  margin-top: 12px;
+  margin-bottom: 58px;
+}
+
+
+.service-box {
+  width: 492.86px;
+  height: 199px;
+  background: #17002E;
+  border-radius: 8px 10px 10px 8px;
+  display: inline-block;
+}
+
+.title-text {
+  display: inline-block;   
+  color: #F5F5F5;
+  font-size: 18px;
+  font-weight: 700px;
+  width:207.86px;
+  height: 25px; 
+  margin-top: 20px;    
+}
+
+.box-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.company-logo {
+  width: 53.57px;
+  height: 50px;
+  margin: 30px 21.43px 18px 32.14px;
+}
+
+.service-description p {
+  font-size: 15px;
+  color: #F5F5F5;
+  margin-left: 32.14px;
+}
+
+.line-1 {
+  width: 407.14px;
+  height: 44px;
+  margin-bottom: 8px;
+}
+
+.service-description img {
+  margin-left: 32.14px;
+  margin-top: 9.25px;
+}
+
+.box-1 {
+  margin: 0px 28px 30px 202px;
+}
+
+.box-2-line-1 {
+  width: 349.29px;
+}
+
+.box-3-line-1 {
+  width: 349.29px;
+}
+
+.box-6-line-1 {
+  width: 353.57px;
+}
+
+
+
+
